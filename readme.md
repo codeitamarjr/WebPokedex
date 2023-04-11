@@ -34,7 +34,7 @@ git clone https://github.com/codeitamarjr/WebPokedex
 
 ## Acknowledgments
 
-- [Manual do Dev Pokedex Video Tutorial](https://www.youtube.com/watch?v=SjtdH3dWLa8&t=2258s)
+- [Manual Do Dev Pokedex Video Tutorial](https://www.youtube.com/watch?v=SjtdH3dWLa8&t=2258s)
 - [PokeAPI](https://pokeapi.co/)
 
 ## License
