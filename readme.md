@@ -4,7 +4,7 @@ A web application to explore the world of Pokémon using HTML, CSS, and JavaScri
 
 This project fetches data from the [PokeAPI](https://pokeapi.co/) and displays information about Pokémon, including their names and images.
 
-![Pokedex Demo](ddd)
+![Pokedex Demo](https://github.com/codeitamarjr/WebPokedex/blob/master/screenshot/screencapture.png?raw=true)
 
 ## Getting Started
 
@@ -18,10 +18,10 @@ These instructions will help you set up the project on your local machine.
 
 1. Clone the repository:
 
-git clone ssss
+git clone [https://github.com/codeitamarjr/WebPokedex]
 
-2. Open the project folder in your text editor.
-3. Open the `index.html` file in your web browser.
+1. Open the project folder in your text editor.
+2. Open the `index.html` file in your web browser.
 
 ## Built With
 
