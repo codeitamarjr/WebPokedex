@@ -9,7 +9,7 @@ const buttonNext = document.querySelector('.button_next');
 
 pokemonImage.style.display = 'none';
 
-let searchPokemon = 0;
+let searchPokemon = 1;
 let pokemonResult = false;
 
 const fetchPokemon = async (pokemon) => {
